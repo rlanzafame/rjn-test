@@ -6,7 +6,6 @@ Input parameters, define the parameters by using the parameter class
 """
 
 # Import the Parameter class
-import Other.GenericFunctions as f;
 from Classes.Parameter import Parameter;
 
 

@@ -8,6 +8,7 @@ Performs the heave calculation, will use the parameters as defined in Input.py
 # Import
 import numpy as np;
 from Input import *;
+import Other.GenericFunctions as f;
 
 
 # The Uplift class, including calculations

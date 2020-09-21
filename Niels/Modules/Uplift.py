@@ -8,6 +8,7 @@ Performs the uplift calculation, will use the parameters as defined in Input.py
 # Import
 import numpy as np;
 import scipy.stats as sc;
+import Other.GenericFunctions as f;
 from Input import *;
 
 
