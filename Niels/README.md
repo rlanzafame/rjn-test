@@ -1,0 +1,1 @@
+For the next meeting I'll try to setup a multi-file calculation example based upon what I've used during my HBO thesis.
